@@ -1,62 +1,68 @@
-<mxfile host="app.diagrams.net" modified="2022-07-09T22:10:59.693Z" agent="5.0 (X11)" etag="G-YQAscki0GB9FSosh3K" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-09T22:11:55.580Z" agent="5.0 (X11)" etag="MuwOoJEhxfgiAmDtQ2gF" version="20.0.1" type="github">
   <diagram id="I2rP_LmeuCBiBPERJ0c1" name="Page-1">
     <mxGraphModel dx="1380" dy="1909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="vRk48V976HWC19-EjkwC-1" value="Los miré con talento&lt;br&gt;Los plebes andaban recio&lt;br&gt;Les propuse buena oferta&lt;br&gt;Para meternos al ruedo&lt;br&gt;&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="vRk48V976HWC19-EjkwC-1" value="Los miré con talento&lt;br style=&quot;font-size: 16px;&quot;&gt;Los plebes andaban recio&lt;br style=&quot;font-size: 16px;&quot;&gt;Les propuse buena oferta&lt;br style=&quot;font-size: 16px;&quot;&gt;Para meternos al ruedo&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="5" y="-670" width="210" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="vRk48V976HWC19-EjkwC-2" value="Se ocupa un buen cerebro&lt;br&gt;Para formar todo un imperio&lt;br&gt;Pa’ mover tanto dinero&lt;br&gt;Hay que tenerlos bien puestos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="vRk48V976HWC19-EjkwC-2" value="Se ocupa un buen cerebro&lt;br style=&quot;font-size: 16px;&quot;&gt;Para formar todo un imperio&lt;br style=&quot;font-size: 16px;&quot;&gt;Pa’ mover tanto dinero&lt;br style=&quot;font-size: 16px;&quot;&gt;Hay que tenerlos bien puestos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="240" y="-700" width="210" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="vRk48V976HWC19-EjkwC-3" value="Un pase de veneno&lt;br&gt;Y mi gente se tercia el fierro&lt;br&gt;Con respeto, un Padre Nuestro&lt;br&gt;Vamos limpiando el terreno" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="vRk48V976HWC19-EjkwC-3" value="Un pase de veneno&lt;br style=&quot;font-size: 16px;&quot;&gt;Y mi gente se tercia el fierro&lt;br style=&quot;font-size: 16px;&quot;&gt;Con respeto, un Padre Nuestro&lt;br style=&quot;font-size: 16px;&quot;&gt;Vamos limpiando el terreno" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="480" y="-700" width="200" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="vRk48V976HWC19-EjkwC-5" value="Y en las noches no puedo dormir&lt;br&gt;Nos turnamos en la guardia&lt;br&gt;Y el cuernito es el que espanta" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="vRk48V976HWC19-EjkwC-5" value="Y en las noches no puedo dormir&lt;br style=&quot;font-size: 16px;&quot;&gt;Nos turnamos en la guardia&lt;br style=&quot;font-size: 16px;&quot;&gt;Y el cuernito es el que espanta" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="40" y="-450" width="130" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="vRk48V976HWC19-EjkwC-6" value="De todo me ha tocado vivir&lt;br&gt;De matar, no tengo miedo&lt;br&gt;La muerte muy cerca pasa" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="vRk48V976HWC19-EjkwC-6" value="De todo me ha tocado vivir&lt;br style=&quot;font-size: 16px;&quot;&gt;De matar, no tengo miedo&lt;br style=&quot;font-size: 16px;&quot;&gt;La muerte muy cerca pasa" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="450" y="-490" width="170" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="vRk48V976HWC19-EjkwC-7" value="Caravana miran por ahí&lt;br&gt;Se divisan armas largas&lt;br&gt;Con el tostón en la caja" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="vRk48V976HWC19-EjkwC-7" value="Caravana miran por ahí&lt;br style=&quot;font-size: 16px;&quot;&gt;Se divisan armas largas&lt;br style=&quot;font-size: 16px;&quot;&gt;Con el tostón en la caja" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="280" y="-470" width="130" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="vRk48V976HWC19-EjkwC-14" value="Por unos, varios plazas&lt;br&gt;Aquí nadie nos frena&lt;br&gt;¡Qué nos bendiga mi Dios!" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="vRk48V976HWC19-EjkwC-14" value="Por unos, varios plazas&lt;br style=&quot;font-size: 16px;&quot;&gt;Aquí nadie nos frena&lt;br style=&quot;font-size: 16px;&quot;&gt;¡Qué nos bendiga mi Dios!" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="60" y="-130" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="vRk48V976HWC19-EjkwC-16" value="El desplome de cuerpos&lt;br&gt;Por unos, cayeron cientos&lt;br&gt;Aquí, rifamos el cuero&lt;br&gt;Por el jefe nos movemos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="vRk48V976HWC19-EjkwC-16" value="El desplome de cuerpos&lt;br style=&quot;font-size: 16px;&quot;&gt;Por unos, cayeron cientos&lt;br style=&quot;font-size: 16px;&quot;&gt;Aquí, rifamos el cuero&lt;br style=&quot;font-size: 16px;&quot;&gt;Por el jefe nos movemos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="250" y="-180" width="140" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="vRk48V976HWC19-EjkwC-17" value="" style="endArrow=none;html=1;rounded=0;fontSize=15;" edge="1" parent="1">
+        <mxCell id="vRk48V976HWC19-EjkwC-17" value="" style="endArrow=none;html=1;rounded=0;fontSize=16;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="20" y="-240" as="sourcePoint" />
             <mxPoint x="841" y="-280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vRk48V976HWC19-EjkwC-18" value="" style="endArrow=none;html=1;rounded=0;fontSize=15;" edge="1" parent="1">
+        <mxCell id="vRk48V976HWC19-EjkwC-18" value="" style="endArrow=none;html=1;rounded=0;fontSize=16;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint y="-520" as="sourcePoint" />
             <mxPoint x="830" y="-500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vRk48V976HWC19-EjkwC-19" value="" style="endArrow=none;html=1;rounded=0;fontSize=15;" edge="1" parent="1">
+        <mxCell id="vRk48V976HWC19-EjkwC-19" value="" style="endArrow=none;html=1;rounded=0;fontSize=16;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="5" y="90" as="sourcePoint" />
             <mxPoint x="460" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vRk48V976HWC19-EjkwC-21" value="Si pasan por el punto&lt;br&gt;De volada, suena el radio&lt;br&gt;Los halcones siempre en uno&lt;br&gt;Si no la tabla sabemos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="vRk48V976HWC19-EjkwC-21" value="Si pasan por el punto&lt;br style=&quot;font-size: 16px;&quot;&gt;De volada, suena el radio&lt;br style=&quot;font-size: 16px;&quot;&gt;Los halcones siempre en uno&lt;br style=&quot;font-size: 16px;&quot;&gt;Si no la tabla sabemos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="430" y="-155" width="130" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="vRk48V976HWC19-EjkwC-22" value="De pie, siguen lo&#39; cerros&lt;br&gt;Más sabe el diablo por viejo&lt;br&gt;Si me buscan, pues me encuentran&lt;br&gt;Testimonios del infierno" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="vRk48V976HWC19-EjkwC-22" value="De pie, siguen lo&#39; cerros&lt;br style=&quot;font-size: 16px;&quot;&gt;Más sabe el diablo por viejo&lt;br style=&quot;font-size: 16px;&quot;&gt;Si me buscan, pues me encuentran&lt;br style=&quot;font-size: 16px;&quot;&gt;Testimonios del infierno" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="620" y="-185" width="140" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="vRk48V976HWC19-EjkwC-23" value="Y en las noches no puedo dormir&lt;br&gt;Nos turnamos en la guardia&lt;br&gt;Y el cuernito es el que espanta" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="vRk48V976HWC19-EjkwC-23" value="Y en las noches no puedo dormir&lt;br style=&quot;font-size: 16px;&quot;&gt;Nos turnamos en la guardia&lt;br style=&quot;font-size: 16px;&quot;&gt;Y el cuernito es el que espanta" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="32.5" y="140" width="155" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="vRk48V976HWC19-EjkwC-24" value="Caravana miran por ahí&lt;br&gt;Se divisan armas largas&lt;br&gt;Con el tostón en la caja&lt;br&gt;&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="vRk48V976HWC19-EjkwC-24" value="Caravana miran por ahí&lt;br style=&quot;font-size: 16px;&quot;&gt;Se divisan armas largas&lt;br style=&quot;font-size: 16px;&quot;&gt;Con el tostón en la caja&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="265" y="180" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="vRk48V976HWC19-EjkwC-25" value="De todo me ha tocado vivir&lt;br style=&quot;font-size: 16px;&quot;&gt;De matar, no tengo miedo&lt;br style=&quot;font-size: 16px;&quot;&gt;La muerte muy cerca pasa" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="450" y="165" width="150" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="vRk48V976HWC19-EjkwC-26" value="Por unos, varios plazas&lt;br style=&quot;font-size: 16px;&quot;&gt;Aquí nadie nos frena&lt;br style=&quot;font-size: 16px;&quot;&gt;¡Qué nos bendiga mi Dios!&lt;br style=&quot;font-size: 16px;&quot;&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="640" y="140" width="190" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
